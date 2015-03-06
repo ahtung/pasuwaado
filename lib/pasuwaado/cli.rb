@@ -6,7 +6,7 @@ module Pasuwaado
     desc 'pass <url>', 'Get password for site'
     def pass(url)
       say "looking up pass for #{url}", :blue
-      result = "dunya386925#{url.match(/\/\/w{3}?\.?(.+)\./).captures.first.capitalize}"
+      result = "dunya35#{url.match(/\/\/w{3}?\.?(.+)\./).captures.first.capitalize}"
       say result, :green
     end
   end
