@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    pasuwaado pass http://www.heroku.com
+    pasuwaado pass http://www.godaddy.com
 
 ## Contributing
 
